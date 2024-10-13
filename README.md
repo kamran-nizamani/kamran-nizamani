@@ -1,6 +1,6 @@
 # 🌟 Kamran Khan Nizamani 🌟
 
-![Hello!](https://media.giphy.com/media/l4FGuhL4lX2oeXzZy/giphy.gif)
+![Hello!](https://media.giphy.com/media/3o7aD5F1ma0JpF3w3G/giphy.gif)
 
 ## 👨‍🎓 About Me
 - **🎓 Education**: Computer Science Student at Sukkur IBA University
@@ -21,7 +21,7 @@
 ---
 
 ## ⏰ Daily Routine
-![Routine](https://media.giphy.com/media/3o7btVbAItkG6YUbI4/giphy.gif)
+![Routine](https://media.giphy.com/media/8U0P8nK9r3zS0/giphy.gif)
 
 - Late sleeper; wakes up an hour before class 🌜
 - **Weekends** include:
@@ -33,7 +33,7 @@
 
 
 ## 🎉 Hobbies
-![Hobbies](https://media.giphy.com/media/l3q2C9f8Q8edK5s2I/giphy.gif)
+![Hobbies](https://media.giphy.com/media/l0ExnJ7tEInH9g4J6/giphy.gif)
 
 - Exploring technology trends 🌍
 - Engaging in discussions and conversations 🗣️
@@ -43,4 +43,4 @@
 ## 🤝 Let's Connect!
 Feel free to reach out if you want to collaborate or chat! 
 
-![Connect](https://media.giphy.com/media/3o7btN1y27MLBq86D6/giphy.gif)
+![Connect](https://media.giphy.com/media/3o7btL3HjYRaBLM9MQ/giphy.gif)
