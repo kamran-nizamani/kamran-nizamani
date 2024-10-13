@@ -20,8 +20,7 @@
   - Sleeping in
   - Going out for dinner with friends
 
-## Living Situation
-- Resides in a hostel with two roommates: Amar Jaleel and Kookar
+
 
 ## Hobbies
 - Exploring technology trends
