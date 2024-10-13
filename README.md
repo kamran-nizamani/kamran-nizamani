@@ -1,4 +1,32 @@
-## Hi there 👋
+# Kamran Khan Nizamani
+
+## About Me
+- **Education**: Computer Science Student at Sukkur IBA University
+- **Interests**: 
+  - Researching new technology
+  - Experimenting with programming languages and frameworks
+  - Reading (scientific papers, historical documents, and fiction)
+  - Playing chess
+  - Enjoying outdoor activities
+
+## Personal Attributes
+- Focused and determined
+- Friendly and sociable; enjoy smiling and joking
+- Tends to work randomly
+
+## Daily Routine
+- Late sleeper; wakes up an hour before class
+- Weekends include:
+  - Sleeping in
+  - Going out for dinner with friends
+
+## Living Situation
+- Resides in a hostel with two roommates: Amar Jaleel and Kookar
+
+## Hobbies
+- Exploring technology trends
+- Engaging in discussions and conversations
+
 
 <!--
 **kamran-nizamani/kamran-nizamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
