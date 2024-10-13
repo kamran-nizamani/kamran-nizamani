@@ -1,43 +1,46 @@
-# Kamran Khan Nizamani
+# 🌟 Kamran Khan Nizamani 🌟
 
-## About Me
-- **Education**: Computer Science Student at Sukkur IBA University
-- **Interests**: 
-  - Researching new technology
-  - Experimenting with programming languages and frameworks
-  - Reading (scientific papers, historical documents, and fiction)
-  - Playing chess
-  - Enjoying outdoor activities
+![Hello!](https://media.giphy.com/media/l4FGuhL4lX2oeXzZy/giphy.gif)
 
-## Personal Attributes
-- Focused and determined
-- Friendly and sociable; enjoy smiling and joking
-- Tends to work randomly
+## 👨‍🎓 About Me
+- **🎓 Education**: Computer Science Student at Sukkur IBA University
+- **💡 Interests**:
+  - 🚀 Researching new technology
+  - 💻 Experimenting with programming languages and frameworks
+  - 📚 Reading (scientific papers, historical documents, and fiction)
+  - ♟️ Playing chess
+  - 🌳 Enjoying outdoor activities
 
-## Daily Routine
-- Late sleeper; wakes up an hour before class
-- Weekends include:
-  - Sleeping in
-  - Going out for dinner with friends
+---
+
+## 🌈 Personal Attributes
+- **Focused** and **determined** 💪
+- Friendly and sociable; enjoy smiling and joking 😄
+- Tends to work randomly 🌀
+
+---
+
+## ⏰ Daily Routine
+![Routine](https://media.giphy.com/media/3o7btVbAItkG6YUbI4/giphy.gif)
+
+- Late sleeper; wakes up an hour before class 🌜
+- **Weekends** include:
+  - 💤 Sleeping in
+  - 🍽️ Going out for dinner with friends
+
+---
 
 
 
-## Hobbies
-- Exploring technology trends
-- Engaging in discussions and conversations
+## 🎉 Hobbies
+![Hobbies](https://media.giphy.com/media/l3q2C9f8Q8edK5s2I/giphy.gif)
 
+- Exploring technology trends 🌍
+- Engaging in discussions and conversations 🗣️
 
-<!--
-**kamran-nizamani/kamran-nizamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🤝 Let's Connect!
+Feel free to reach out if you want to collaborate or chat! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Connect](https://media.giphy.com/media/3o7btN1y27MLBq86D6/giphy.gif)
