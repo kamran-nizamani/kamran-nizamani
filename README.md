@@ -43,4 +43,3 @@
 ## 🤝 Let's Connect!
 Feel free to reach out if you want to collaborate or chat! 
 
-![Connect](https://media.giphy.com/media/3o7btL3HjYRaBLM9MQ/giphy.gif)
