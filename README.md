@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,15:FF7F00,35:FFFF00,55:00FF7F,75:00BFFF,100:8A2BE2&height=260&section=header&text=KAMRAN%20KHAN&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Specialist%20%7C%20Cloud%20Learner&descAlignY=62&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=260&section=header&text=KAMRAN%20KHAN&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Specialist%20%7C%20Cloud%20Learner&descAlignY=62&descAlign=50" />
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="65">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF61D8&background=00000000&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Kamran+%F0%9F%91%8B;Computer+Science+Student+%40+Sukkur+IBA;Full-Stack+Web+Developer;AI+%2F+Machine+Learning+Enthusiast;Open+to+Internships+%26+Freelance+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&background=00000000&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Kamran+%F0%9F%91%8B;Computer+Science+Student+%40+Sukkur+IBA;Full-Stack+Web+Developer;AI+%2F+Machine+Learning+Enthusiast;Open+to+Internships+%26+Freelance+Work" />
 
 <br>
 
-![Followers](https://img.shields.io/github/followers/kamran-nizamani?style=for-the-badge&logo=github&color=FF61D8&labelColor=0d0221)
-![Profile Views](https://komarev.com/ghpvc/?username=kamran-nizamani&style=for-the-badge&color=00F7FF&labelColor=0d0221)
-![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-39FF14?style=for-the-badge&labelColor=0d0221)
+![Followers](https://img.shields.io/github/followers/kamran-nizamani?style=for-the-badge&logo=github&color=0F2027&labelColor=00C6FF)
+![Profile Views](https://komarev.com/ghpvc/?username=kamran-nizamani&style=for-the-badge&color=2C5364&labelColor=00C6FF)
+![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-00C6FF?style=for-the-badge&labelColor=0F2027)
 
 </div>
 
@@ -250,20 +250,20 @@ flowchart TD
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kamran-nizamani&show_icons=true&theme=synthwave&hide_border=true&count_private=true&rank_icon=github&bg_color=0d0221"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kamran-nizamani&theme=synthwave&hide_border=true&background=0d0221"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kamran-nizamani&show_icons=true&theme=cobalt&hide_border=true&count_private=true&rank_icon=github&bg_color=0F2027&title_color=00C6FF&icon_color=00C6FF"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kamran-nizamani&theme=cobalt-2&hide_border=true&background=0F2027&ring=00C6FF&fire=00C6FF"/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-nizamani&layout=compact&theme=synthwave&hide_border=true&langs_count=8&bg_color=0d0221"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-nizamani&layout=compact&theme=cobalt&hide_border=true&langs_count=8&bg_color=0F2027&title_color=00C6FF"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamran-nizamani&theme=react-dark&hide_border=true&bg_color=0d0221&color=FF61D8&line=00F7FF&point=FFFF00"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamran-nizamani&theme=react-dark&hide_border=true&bg_color=0F2027&color=00C6FF&line=2C5364&point=ffffff"/>
 
 <img width="100%" src="https://raw.githubusercontent.com/kamran-nizamani/kamran-nizamani/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark-rainbow.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark-blue.svg"/>
 
 </div>
 
-> 📌 `TODO`: the 3D graph needs [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) set up as a GitHub Action in this repo (generates `profile-night-rainbow.svg`, `night-rainbow` theme). The snake needs [platane/snk](https://github.com/Platane/snk). Setup steps below.
+> 📌 `TODO`: the 3D graph needs [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) set up as a GitHub Action in this repo — it auto-generates several themed SVGs in `profile-3d-contrib/`; after the first run, check the repo and swap the filename above for whichever blue-toned theme (e.g. `profile-night-view.svg`) you like best. The snake needs [platane/snk](https://github.com/Platane/snk). Setup steps below.
 
 ---
 
@@ -291,8 +291,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: kamran-nizamani
+          USERNAME: kamran-nizamani
       - name: Commit generated SVGs
         run: |
           git config user.name github-actions
@@ -324,7 +323,7 @@ jobs:
         with:
           github_user_name: kamran-nizamani
           outputs: |
-            dist/github-contribution-grid-snake-dark-rainbow.svg?palette=github-dark&color_snake=%23FF61D8
+            dist/github-contribution-grid-snake-dark-blue.svg?palette=github-dark-blue
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -390,7 +389,7 @@ timeline
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:00BFFF,50:00FF7F,75:FFFF00,100:FF7F00&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:2C5364,100:0F2027&height=120&section=footer" />
 
 💌 *Thanks for stopping by! If any of this made you smile, feel free to say hi — always happy to build something nice together.*
 
