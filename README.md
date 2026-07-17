@@ -257,13 +257,13 @@ flowchart TD
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamran-nizamani&theme=react-dark&hide_border=true&bg_color=0F2027&color=00C6FF&line=2C5364&point=ffffff"/>
 
-<img width="100%" src="https://raw.githubusercontent.com/kamran-nizamani/kamran-nizamani/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/kamran-nizamani/kamran-nizamani/main/profile-3d-contrib/profile-night-view.svg"/>
 
 <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark-blue.svg"/>
 
 </div>
 
-> 📌 `TODO`: the 3D graph needs [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) set up as a GitHub Action in this repo — it auto-generates several themed SVGs in `profile-3d-contrib/`; after the first run, check the repo and swap the filename above for whichever blue-toned theme (e.g. `profile-night-view.svg`) you like best. The snake needs [platane/snk](https://github.com/Platane/snk). Setup steps below.
+> 📌 `TODO`: the 3D graph needs [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) set up as a GitHub Action in this repo — it's already pointed at `profile-night-view.svg` (a blue-toned theme, no rainbow). The snake needs [platane/snk](https://github.com/Platane/snk). Setup steps below.
 
 ---
 
