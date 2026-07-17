@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,50:4A2E8C,100:8B5CF6&height=260&section=header&text=KAMRAN%20KHAN&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Specialist%20%7C%20Cloud%20Learner&descAlignY=62&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:14B8A6&height=260&section=header&text=KAMRAN%20KHAN&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Specialist%20%7C%20Cloud%20Learner&descAlignY=62&descAlign=50" />
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="65">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Kamran+%F0%9F%91%8B;Computer+Science+Student+%40+Sukkur+IBA;Full-Stack+Web+Developer;AI+%2F+Machine+Learning+Enthusiast;Open+to+Internships+%26+Freelance+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=14B8A6&background=00000000&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Kamran+%F0%9F%91%8B;Computer+Science+Student+%40+Sukkur+IBA;Full-Stack+Web+Developer;AI+%2F+Machine+Learning+Enthusiast;Open+to+Internships+%26+Freelance+Work" />
 
 <br>
 
-![Followers](https://img.shields.io/github/followers/kamran-nizamani?style=for-the-badge&logo=github&color=1A0B2E&labelColor=8B5CF6)
-![Profile Views](https://komarev.com/ghpvc/?username=kamran-nizamani&style=for-the-badge&color=4A2E8C&labelColor=8B5CF6)
-![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-8B5CF6?style=for-the-badge&labelColor=1A0B2E)
+![Followers](https://img.shields.io/github/followers/kamran-nizamani?style=for-the-badge&logo=github&color=0F172A&labelColor=14B8A6)
+![Profile Views](https://komarev.com/ghpvc/?username=kamran-nizamani&style=for-the-badge&color=0F766E&labelColor=14B8A6)
+![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-14B8A6?style=for-the-badge&labelColor=0F172A)
 
 </div>
 
@@ -250,16 +250,16 @@ flowchart TD
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kamran-nizamani&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&bg_color=1A0B2E&title_color=8B5CF6&icon_color=8B5CF6"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kamran-nizamani&theme=radical&hide_border=true&background=1A0B2E&ring=8B5CF6&fire=8B5CF6"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kamran-nizamani&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github&bg_color=0F172A&title_color=14B8A6&icon_color=14B8A6&text_color=E2E8F0"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kamran-nizamani&theme=dark&hide_border=true&background=0F172A&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6"/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-nizamani&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=1A0B2E&title_color=8B5CF6"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-nizamani&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0F172A&title_color=14B8A6"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamran-nizamani&theme=react-dark&hide_border=true&bg_color=1A0B2E&color=8B5CF6&line=4A2E8C&point=ffffff"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamran-nizamani&theme=react-dark&hide_border=true&bg_color=0F172A&color=14B8A6&line=0F766E&point=ffffff"/>
 
 <img width="100%" src="https://raw.githubusercontent.com/kamran-nizamani/kamran-nizamani/main/profile-3d-contrib/profile-night-view.svg"/>
 
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark-purple.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark-teal.svg"/>
 
 </div>
 
@@ -321,7 +321,7 @@ jobs:
         with:
           github_user_name: kamran-nizamani
           outputs: |
-            dist/github-contribution-grid-snake-dark-purple.svg?color_snake=%238B5CF6&color_dots=%231A0B2E,%234A2E8C,%236D3FB0,%238B5CF6,%23C4B5FD
+            dist/github-contribution-grid-snake-dark-teal.svg?color_snake=%2314B8A6&color_dots=%230F172A,%230F766E,%2314B8A6,%232DD4BF,%2399F6E4
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -376,10 +376,10 @@ timeline
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kamrandev.me-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A0B2E)](https://kamrandev.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamran_Khan-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0B2E)](https://www.linkedin.com/in/kamran-khan22)
-[![GitHub](https://img.shields.io/badge/GitHub-kamran--nizamani-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0B2E)](https://github.com/kamran-nizamani)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0B2E)](mailto:kamrannizamani35@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kamrandev.me-14B8A6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A)](https://kamrandev.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamran_Khan-14B8A6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A)](https://www.linkedin.com/in/kamran-khan22)
+[![GitHub](https://img.shields.io/badge/GitHub-kamran--nizamani-14B8A6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/kamran-nizamani)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-14B8A6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:kamrannizamani35@gmail.com)
 
 </div>
 
@@ -387,7 +387,7 @@ timeline
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:4A2E8C,100:1A0B2E&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0F766E,100:0F172A&height=120&section=footer" />
 
 💌 *Thanks for stopping by! If any of this made you smile, feel free to say hi — always happy to build something nice together.*
 
