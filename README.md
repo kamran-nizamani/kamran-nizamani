@@ -263,8 +263,6 @@ flowchart TD
 
 </div>
 
-> 📌 `TODO`: the 3D graph needs [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) set up as a GitHub Action in this repo — it's already pointed at `profile-night-view.svg` (a blue-toned theme, no rainbow). The snake needs [platane/snk](https://github.com/Platane/snk). Setup steps below.
-
 ---
 
 <details>
@@ -301,7 +299,7 @@ jobs:
           git push
 ```
 
-Available themes include `night-rainbow` — used above. Full theme list is in the [action's README](https://github.com/yoshi389111/github-profile-3d-contrib).
+Available themes include `night-view` (used above, blue-toned). Full theme list is in the [action's README](https://github.com/yoshi389111/github-profile-3d-contrib).
 
 **2. Contribution Snake** — create `.github/workflows/snake.yml`:
 
@@ -378,10 +376,10 @@ timeline
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kamrandev.me-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white)](https://kamrandev.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamran_Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamran-khan22)
-[![GitHub](https://img.shields.io/badge/GitHub-kamran--nizamani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamran-nizamani)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamrannizamani35@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kamrandev.me-00C6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F2027)](https://kamrandev.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamran_Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F2027)](https://www.linkedin.com/in/kamran-khan22)
+[![GitHub](https://img.shields.io/badge/GitHub-kamran--nizamani-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027)](https://github.com/kamran-nizamani)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027)](mailto:kamrannizamani35@gmail.com)
 
 </div>
 
