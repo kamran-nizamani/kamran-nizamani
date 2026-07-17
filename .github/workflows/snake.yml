@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: kamran-nizamani
           outputs: |
-            dist/github-contribution-grid-snake-dark-blue.svg?palette=github-dark-blue
+            dist/github-contribution-grid-snake-dark-teal.svg?color_snake=%2314B8A6&color_dots=%230F172A,%230F766E,%2314B8A6,%232DD4BF,%2399F6E4
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
