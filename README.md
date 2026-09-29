@@ -279,14 +279,14 @@ flowchart TD
 
 ## Roadmap 2026
 
-```mermaid
-timeline
-    title 2026 Goals
-    Q1 : Complete AI for Data Analysis cert : Ship 2nd full-stack app
-    Q2 : Build Real-Time Analytics Dashboard : Contribute to 5 OSS projects
-    Q3 : AI-Powered Recommendation Engine : Start Deep Learning specialization
-    Q4 : Cloud-native microservices project : Land a software engineering internship
-```
+> **2026 Focus:** Full-stack engineering · AI/ML · Open source · Cloud
+
+| Quarter | Focus |
+|---|---|
+| **Q1** | Complete AI for Data Analysis certification · Ship 2nd full-stack app |
+| **Q2** | Build real-time analytics dashboard · Contribute to 5 OSS projects |
+| **Q3** | Build an AI-powered recommendation engine · Start deep learning specialization |
+| **Q4** | Build a cloud-native microservices project · Pursue software engineering opportunities |
 
 | Goal | Target | Status |
 |---|---|---|
