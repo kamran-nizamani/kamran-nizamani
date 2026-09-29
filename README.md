@@ -174,61 +174,32 @@ flowchart LR
 
 ## Featured Projects
 
-### 🎓 Freelancer Hiring Platform
-Desktop application for managing freelancer–client relationships, payments, and performance tracking.
+<div align="center">
 
-`Python` `Tkinter` `MySQL` `MVC Architecture`
+| 🚀 Project | 🧩 Stack | 🎯 Focus |
+|---|---|---|
+| **Dashboard** | Next.js · Supabase · Tailwind | Data search, district/bank records & shared database |
+| **VICE OS** | Linux · AI · Voice · Intent | Developer-oriented AI operating environment research |
+| **OpenReseach** | React · Next.js · AI | Research discovery and knowledge workflow |
+| **CortexWard** | Semgrep · Python · Security | Security rules and code-quality automation |
+| **Portfolio** | React · Vite · Three.js | Personal developer portfolio & interactive UI |
 
-- Dual role-based access (Admin / Client / Freelancer)
-- Payment tracking, invoicing, and ratings system
-- 3NF-normalized schema with full CRUD operations
+</div>
 
-**[View Repository →](#)**
-
----
-
-### 🌦️ Weather Application
-Real-time weather app with forecasting and multi-city tracking.
-
-`Java` `OpenWeatherMap API` `Swing/JavaFX`
-
-- 7-day forecasting and unit conversion
-- Location-based auto-detection
-- JSON persistence for search history
-
-**[View Repository →](#)**
-
----
-
-### 🌐 Personal Portfolio
-Production React site showcasing projects, certifications, and contact channels.
-
-`React 18` `Tailwind CSS` `Vercel`
-
-- Lighthouse score 90+, mobile-first, SEO-optimized
-- Dark/light theme toggle, accessible components
-
-**[Live Site → kamrandev.me](https://kamrandev.me)**
-
----
-
-### 🤖 AI/ML Project Portfolio
-Ongoing collection of applied data science projects.
+### 🔥 What I'm Building
 
 <details>
-<summary><b>See sub-projects</b></summary>
+<summary><b>Explore the project directions</b></summary>
 <br>
 
-| Project | Stack | Focus |
-|---|---|---|
-| Predictive Analytics Dashboard | Pandas, scikit-learn, Matplotlib | Regression models, evaluation, visualization |
-| Exploratory Data Analysis | Jupyter, Seaborn, NumPy | Statistical analysis, correlation discovery |
-| Classification Project | scikit-learn, XGBoost | Feature engineering, hyperparameter tuning |
-| NLP Basics | NLTK, spaCy | Sentiment analysis, text classification |
+- **AI + Developer Tools** — practical AI features integrated into real software workflows.
+- **Full-Stack Systems** — modern React/Next.js frontends with APIs and databases.
+- **Open Source** — bug fixes, security improvements, tooling and documentation.
+- **AI OS Research** — voice, intent, semantic files and controlled AI interaction.
 
 </details>
 
-**[View Repository →](#)**
+> 💡 **Building philosophy:** ship useful software, keep the architecture understandable, and use AI where it creates real product value.
 
 ---
 
