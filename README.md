@@ -279,14 +279,25 @@ flowchart TD
 
 ## Roadmap 2026
 
-> **2026 Focus:** Full-stack engineering · AI/ML · Open source · Cloud
+<div align="center">
 
-| Quarter | Focus |
-|---|---|
-| **Q1** | Complete AI for Data Analysis certification · Ship 2nd full-stack app |
-| **Q2** | Build real-time analytics dashboard · Contribute to 5 OSS projects |
-| **Q3** | Build an AI-powered recommendation engine · Start deep learning specialization |
-| **Q4** | Build a cloud-native microservices project · Pursue software engineering opportunities |
+<img width="96%" src="https://raw.githubusercontent.com/kamran-nizamani/kamran-nizamani/main/profile-3d-contrib/profile-night-view.svg" />
+
+<br><br>
+
+<table>
+<tr>
+<td align="center"><b>Q1</b><br>Full-Stack<br><sub>Ship 2nd app</sub></td>
+<td align="center">➜</td>
+<td align="center"><b>Q2</b><br>Analytics + OSS<br><sub>Dashboard + contributions</sub></td>
+<td align="center">➜</td>
+<td align="center"><b>Q3</b><br>AI / ML<br><sub>Recommendation engine</sub></td>
+<td align="center">➜</td>
+<td align="center"><b>Q4</b><br>Cloud<br><sub>Microservices + opportunities</sub></td>
+</tr>
+</table>
+
+</div>
 
 | Goal | Target | Status |
 |---|---|---|
