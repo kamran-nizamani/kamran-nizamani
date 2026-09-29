@@ -174,25 +174,68 @@ flowchart LR
 
 ## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/kamran-nizamani/Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamran-nizamani&repo=Dashboard&theme=transparent&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&bg_color=00000000" />
-</a>
-<a href="https://github.com/kamran-nizamani/OpenReseach">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamran-nizamani&repo=OpenReseach&theme=transparent&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&bg_color=00000000" />
-</a>
+### 📊 Dashboard
 
-<a href="https://github.com/kamran-nizamani/CortexWard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamran-nizamani&repo=CortexWard&theme=transparent&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&bg_color=00000000" />
-</a>
-<a href="https://github.com/kamran-nizamani/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamran-nizamani&repo=portfolio&theme=transparent&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&bg_color=00000000" />
-</a>
+**District & beneficiary data dashboard**
 
-</div>
+- Next.js / Supabase
+- Bank & beneficiary records
+- Search and profile views
+- Multi-device data sync
 
-> **Verified repositories:** These cards point directly to repositories found under kamran-nizamani on GitHub. Dashboard is private; the other three verified repositories are public.
+<a href="https://github.com/kamran-nizamani/Dashboard">🔗 View Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 OpenReseach
+
+**Open research discovery & workflow project**
+
+- Research-focused tooling
+- Open-source development
+- Structured project workflow
+
+<a href="https://github.com/kamran-nizamani/OpenReseach">🔗 View Repository</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ CortexWard
+
+**Security-focused developer tooling**
+
+- Code security analysis
+- Semgrep-based rules
+- CWE-oriented security checks
+
+<a href="https://github.com/kamran-nizamani/CortexWard">🔗 View Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Portfolio
+
+**Personal developer portfolio**
+
+- React / Vite
+- Three.js
+- Framer Motion
+- Developer-focused presentation
+
+<a href="https://github.com/kamran-nizamani/portfolio">🔗 View Repository</a>
+
+</td>
+</tr>
+</table>
+
+> **Verified:** All four repositories above were checked under `kamran-nizamani`. Dashboard is private; the other three are public.
 
 ---
 
