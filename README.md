@@ -250,6 +250,8 @@ flowchart TD
 
 <div align="center">
 
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamran-nizamani&theme=github_dark" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kamran-nizamani&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github&bg_color=0F172A&title_color=14B8A6&icon_color=14B8A6&text_color=E2E8F0"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kamran-nizamani&theme=dark&hide_border=true&background=0F172A&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6"/>
 
