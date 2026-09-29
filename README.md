@@ -176,30 +176,23 @@ flowchart LR
 
 <div align="center">
 
-| 🚀 Project | 🧩 Stack | 🎯 Focus |
-|---|---|---|
-| **Dashboard** | Next.js · Supabase · Tailwind | Data search, district/bank records & shared database |
-| **VICE OS** | Linux · AI · Voice · Intent | Developer-oriented AI operating environment research |
-| **OpenReseach** | React · Next.js · AI | Research discovery and knowledge workflow |
-| **CortexWard** | Semgrep · Python · Security | Security rules and code-quality automation |
-| **Portfolio** | React · Vite · Three.js | Personal developer portfolio & interactive UI |
+<a href="https://github.com/kamran-nizamani/Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamran-nizamani&repo=Dashboard&theme=transparent&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&bg_color=00000000" />
+</a>
+<a href="https://github.com/kamran-nizamani/OpenReseach">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamran-nizamani&repo=OpenReseach&theme=transparent&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&bg_color=00000000" />
+</a>
+
+<a href="https://github.com/kamran-nizamani/CortexWard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamran-nizamani&repo=CortexWard&theme=transparent&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&bg_color=00000000" />
+</a>
+<a href="https://github.com/kamran-nizamani/portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamran-nizamani&repo=portfolio&theme=transparent&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&bg_color=00000000" />
+</a>
 
 </div>
 
-### 🔥 What I'm Building
-
-<details>
-<summary><b>Explore the project directions</b></summary>
-<br>
-
-- **AI + Developer Tools** — practical AI features integrated into real software workflows.
-- **Full-Stack Systems** — modern React/Next.js frontends with APIs and databases.
-- **Open Source** — bug fixes, security improvements, tooling and documentation.
-- **AI OS Research** — voice, intent, semantic files and controlled AI interaction.
-
-</details>
-
-> 💡 **Building philosophy:** ship useful software, keep the architecture understandable, and use AI where it creates real product value.
+> **Verified repositories:** These cards point directly to repositories found under kamran-nizamani on GitHub. Dashboard is private; the other three verified repositories are public.
 
 ---
 
