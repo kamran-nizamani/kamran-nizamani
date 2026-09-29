@@ -250,20 +250,25 @@ flowchart TD
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamran-nizamani&theme=github_dark" />
+<a href="https://github.com/kamran-nizamani">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kamran-nizamani&show_icons=true&hide_border=true&count_private=true&rank_icon=github&theme=transparent&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&bg_color=00000000" />
+</a>
+<a href="https://github.com/kamran-nizamani">
+  <img height="180" src="https://streak-stats.demolab.com?user=kamran-nizamani&hide_border=true&theme=transparent&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=14B8A6&background=00000000" />
+</a>
 
-<br>
+<br><br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kamran-nizamani&show_icons=true&hide_border=true&count_private=true&rank_icon=github&theme=transparent&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&bg_color=00000000" />
-<img height="180" src="https://streak-stats.demolab.com?user=kamran-nizamani&hide_border=true&theme=transparent&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=14B8A6&background=00000000" />
+<a href="https://github.com/kamran-nizamani">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-nizamani&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=14B8A6&text_color=C9D1D9&bg_color=00000000" />
+</a>
+<a href="https://github.com/kamran-nizamani">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamran-nizamani&theme=github_dark" />
+</a>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-nizamani&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0F172A&title_color=14B8A6"/>
+<br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamran-nizamani&theme=react-dark&hide_border=true&bg_color=0F172A&color=14B8A6&line=0F766E&point=ffffff"/>
-
-<img width="100%" src="https://raw.githubusercontent.com/kamran-nizamani/kamran-nizamani/main/profile-3d-contrib/profile-night-view.svg"/>
-
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark-teal.svg"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamran-nizamani&theme=react-dark&hide_border=true&bg_color=00000000&color=14B8A6&line=14B8A6&point=ffffff" />
 
 </div>
 
