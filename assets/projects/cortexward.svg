@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 210" width="480" height="210" role="img" aria-label="CortexWard: Security-focused developer tooling">
+<style>.mono{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,monospace}.sans{font-family:'Inter','Segoe UI',Helvetica,Arial,sans-serif}
+.bar{animation:grow 1.2s ease-out both}@keyframes grow{from{width:0}to{width:424px}}</style>
+<rect x="0.5" y="0.5" width="479" height="209" rx="16" fill="#0D1117" stroke="#F59E0B" stroke-opacity="0.45"/>
+<rect x="28" y="0" width="424" height="3" rx="1.5" fill="#F59E0B" class="bar"/>
+<text class="sans" x="28" y="44" font-size="22" font-weight="700" fill="#FFFFFF">🛡️  CortexWard</text>
+<rect x="370.8" y="26" width="81.2" height="22" rx="11" fill="#F59E0B" fill-opacity="0.16"/><text class="mono" x="411.4" y="41" font-size="11" font-weight="700" fill="#F59E0B" text-anchor="middle">SECURITY</text>
+<text class="sans" x="28" y="72" font-size="13" fill="#8B949E">Security-focused developer tooling</text>
+<circle cx="34" cy="96" r="3" fill="#F59E0B"/><text class="sans" x="48" y="100" font-size="14" fill="#C9D1D9">Code security analysis</text><circle cx="34" cy="118" r="3" fill="#F59E0B"/><text class="sans" x="48" y="122" font-size="14" fill="#C9D1D9">Semgrep-based rules</text><circle cx="34" cy="140" r="3" fill="#F59E0B"/><text class="sans" x="48" y="144" font-size="14" fill="#C9D1D9">CWE-oriented checks</text><rect x="28" y="166" width="80" height="26" rx="13" fill="#F59E0B" fill-opacity="0.14"/><text class="mono" x="68.0" y="183" font-size="12" fill="#E6EDF3" text-anchor="middle">Semgrep</text><rect x="116" y="166" width="48" height="26" rx="13" fill="#F59E0B" fill-opacity="0.14"/><text class="mono" x="140.0" y="183" font-size="12" fill="#E6EDF3" text-anchor="middle">CWE</text><rect x="172" y="166" width="88" height="26" rx="13" fill="#F59E0B" fill-opacity="0.14"/><text class="mono" x="216.0" y="183" font-size="12" fill="#E6EDF3" text-anchor="middle">Security</text>
+</svg>

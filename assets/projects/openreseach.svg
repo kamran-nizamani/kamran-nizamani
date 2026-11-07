@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 210" width="480" height="210" role="img" aria-label="OpenReseach: Open research discovery and workflow">
+<style>.mono{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,monospace}.sans{font-family:'Inter','Segoe UI',Helvetica,Arial,sans-serif}
+.bar{animation:grow 1.2s ease-out both}@keyframes grow{from{width:0}to{width:424px}}</style>
+<rect x="0.5" y="0.5" width="479" height="209" rx="16" fill="#0D1117" stroke="#A78BFA" stroke-opacity="0.45"/>
+<rect x="28" y="0" width="424" height="3" rx="1.5" fill="#A78BFA" class="bar"/>
+<text class="sans" x="28" y="44" font-size="22" font-weight="700" fill="#FFFFFF">🔬  OpenReseach</text>
+<rect x="348.6" y="26" width="103.4" height="22" rx="11" fill="#A78BFA" fill-opacity="0.16"/><text class="mono" x="400.3" y="41" font-size="11" font-weight="700" fill="#A78BFA" text-anchor="middle">OPEN SOURCE</text>
+<text class="sans" x="28" y="72" font-size="13" fill="#8B949E">Open research discovery and workflow</text>
+<circle cx="34" cy="96" r="3" fill="#A78BFA"/><text class="sans" x="48" y="100" font-size="14" fill="#C9D1D9">Research-focused tooling</text><circle cx="34" cy="118" r="3" fill="#A78BFA"/><text class="sans" x="48" y="122" font-size="14" fill="#C9D1D9">Structured project workflow</text><circle cx="34" cy="140" r="3" fill="#A78BFA"/><text class="sans" x="48" y="144" font-size="14" fill="#C9D1D9">Built in the open</text><rect x="28" y="166" width="112" height="26" rx="13" fill="#A78BFA" fill-opacity="0.14"/><text class="mono" x="84.0" y="183" font-size="12" fill="#E6EDF3" text-anchor="middle">Open Source</text><rect x="148" y="166" width="88" height="26" rx="13" fill="#A78BFA" fill-opacity="0.14"/><text class="mono" x="192.0" y="183" font-size="12" fill="#E6EDF3" text-anchor="middle">Research</text>
+</svg>
