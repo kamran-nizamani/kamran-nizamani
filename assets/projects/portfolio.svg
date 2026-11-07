@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 210" width="480" height="210" role="img" aria-label="Portfolio: Personal developer portfolio">
+<style>.mono{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,monospace}.sans{font-family:'Inter','Segoe UI',Helvetica,Arial,sans-serif}
+.bar{animation:grow 1.2s ease-out both}@keyframes grow{from{width:0}to{width:424px}}</style>
+<rect x="0.5" y="0.5" width="479" height="209" rx="16" fill="#0D1117" stroke="#14B8A6" stroke-opacity="0.45"/>
+<rect x="28" y="0" width="424" height="3" rx="1.5" fill="#14B8A6" class="bar"/>
+<text class="sans" x="28" y="44" font-size="22" font-weight="700" fill="#FFFFFF">💻  Portfolio</text>
+<rect x="407.8" y="26" width="44.2" height="22" rx="11" fill="#14B8A6" fill-opacity="0.16"/><text class="mono" x="429.9" y="41" font-size="11" font-weight="700" fill="#14B8A6" text-anchor="middle">WEB</text>
+<text class="sans" x="28" y="72" font-size="13" fill="#8B949E">Personal developer portfolio</text>
+<circle cx="34" cy="96" r="3" fill="#14B8A6"/><text class="sans" x="48" y="100" font-size="14" fill="#C9D1D9">3D scenes with Three.js</text><circle cx="34" cy="118" r="3" fill="#14B8A6"/><text class="sans" x="48" y="122" font-size="14" fill="#C9D1D9">Smooth motion with Framer Motion</text><circle cx="34" cy="140" r="3" fill="#14B8A6"/><text class="sans" x="48" y="144" font-size="14" fill="#C9D1D9">Developer-focused presentation</text><rect x="28" y="166" width="64" height="26" rx="13" fill="#14B8A6" fill-opacity="0.14"/><text class="mono" x="60.0" y="183" font-size="12" fill="#E6EDF3" text-anchor="middle">React</text><rect x="100" y="166" width="56" height="26" rx="13" fill="#14B8A6" fill-opacity="0.14"/><text class="mono" x="128.0" y="183" font-size="12" fill="#E6EDF3" text-anchor="middle">Vite</text><rect x="164" y="166" width="88" height="26" rx="13" fill="#14B8A6" fill-opacity="0.14"/><text class="mono" x="208.0" y="183" font-size="12" fill="#E6EDF3" text-anchor="middle">Three.js</text>
+</svg>

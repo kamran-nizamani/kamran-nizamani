@@ -48,12 +48,20 @@ open_to:     [Internships, Freelance Work, Open Source, Mentorship]
 
 ## 🛰️ Featured Builds
 
-|    | Project | The Pitch | Arsenal |
-|:--:|---|---|---|
-| 📊 | **Dashboard** *(private)* | District and beneficiary data dashboard with bank records, search and profile views, synced across devices | ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-0D1117?logo=supabase&logoColor=3ECF8E) |
-| 🔬 | [**OpenReseach**](https://github.com/kamran-nizamani/OpenReseach) | Open research discovery and workflow project with structured, research-focused tooling | ![Open Source](https://img.shields.io/badge/-Open_Source-0D1117?logo=opensourceinitiative&logoColor=14B8A6) |
-| 🛡️ | [**CortexWard**](https://github.com/kamran-nizamani/CortexWard) | Security-focused developer tooling: Semgrep-based rules and CWE-oriented code checks | ![Semgrep](https://img.shields.io/badge/-Semgrep-0D1117?logo=semgrep&logoColor=white) ![Security](https://img.shields.io/badge/-CWE-0D1117) |
-| 💻 | [**Portfolio**](https://github.com/kamran-nizamani/portfolio) | Personal developer portfolio with 3D scenes and smooth motion | ![React](https://img.shields.io/badge/-React-0D1117?logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/-Three.js-0D1117?logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-0D1117?logo=vite&logoColor=646CFF) |
+<div align="center">
+<table>
+<tr>
+<td><img src="assets/projects/dashboard.svg" alt="Dashboard (private)" width="480" /></td>
+<td><a href="https://github.com/kamran-nizamani/OpenReseach"><img src="assets/projects/openreseach.svg" alt="OpenReseach" width="480" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/kamran-nizamani/CortexWard"><img src="assets/projects/cortexward.svg" alt="CortexWard" width="480" /></a></td>
+<td><a href="https://github.com/kamran-nizamani/portfolio"><img src="assets/projects/portfolio.svg" alt="Portfolio" width="480" /></a></td>
+</tr>
+</table>
+</div>
+
+<sub>Click a card to open the repository. Dashboard is a private repository.</sub>
 
 <div align="center">
 
@@ -75,13 +83,11 @@ open_to:     [Internships, Freelance Work, Open Source, Mentorship]
 
 ## 🎓 Certifications
 
-| Certification | Issuer | Date | Status |
-|---|---|---|---|
-| AI for Data Analysis | Google Career Certificates | Jun 2026 | 🟡 In progress |
-| Foundations of Data Science | Google Career Certificates | Dec 2025 | ✅ Done |
-| Get Started with Python | Google Career Certificates | Dec 2025 | ✅ Done |
-| Play It Safe: Manage Security Risks | Google Career Certificates | Sep 2025 | ✅ Done |
-| Foundations of Cybersecurity | Google Career Certificates | Aug 2025 | ✅ Done |
+<div align="center">
+
+<img src="assets/certs.svg" alt="Google Career Certificates timeline" width="100%" />
+
+</div>
 
 ## 🧭 Currently
 
