@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Stack map: frontend, backend and data, AI and ML, cloud and security">
+  <style>
+    .mono { font-family: 'JetBrains Mono','Fira Code',Consolas,Menlo,monospace; }
+    .sans { font-family: 'Inter','Segoe UI',Helvetica,Arial,sans-serif; }
+    .card { opacity: 0; animation: rise 0.7s ease-out forwards; }
+    .c1 { animation-delay: 0.1s; } .c2 { animation-delay: 0.3s; } .c3 { animation-delay: 0.5s; } .c4 { animation-delay: 0.7s; }
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
+
+  <rect width="1000" height="340" rx="18" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="999" height="339" rx="18" fill="none" stroke="#14B8A6" stroke-opacity="0.35"/>
+  <text class="mono" x="32" y="46" font-size="15" fill="#14B8A6">$ stack --map</text>
+
+  <!-- Card 1 -->
+  <g class="card c1">
+    <rect x="28" y="66" width="226" height="244" rx="14" fill="#111A22" stroke="#14B8A6" stroke-opacity="0.3"/>
+    <text class="sans" x="46" y="98" font-size="17" font-weight="700" fill="#5EEAD4">Frontend</text>
+    <rect x="46" y="116" width="62" height="26" rx="13" fill="#14B8A6" fill-opacity="0.15"/><text class="mono" x="77" y="134" font-size="12" fill="#E6EDF3" text-anchor="middle">React</text>
+    <rect x="116" y="116" width="76" height="26" rx="13" fill="#14B8A6" fill-opacity="0.15"/><text class="mono" x="154" y="134" font-size="12" fill="#E6EDF3" text-anchor="middle">Next.js</text>
+    <rect x="46" y="152" width="90" height="26" rx="13" fill="#14B8A6" fill-opacity="0.15"/><text class="mono" x="91" y="170" font-size="12" fill="#E6EDF3" text-anchor="middle">Tailwind</text>
+    <rect x="144" y="152" width="62" height="26" rx="13" fill="#14B8A6" fill-opacity="0.15"/><text class="mono" x="175" y="170" font-size="12" fill="#E6EDF3" text-anchor="middle">Vite</text>
+    <rect x="46" y="188" width="82" height="26" rx="13" fill="#14B8A6" fill-opacity="0.15"/><text class="mono" x="87" y="206" font-size="12" fill="#E6EDF3" text-anchor="middle">Three.js</text>
+    <rect x="136" y="188" width="72" height="26" rx="13" fill="#14B8A6" fill-opacity="0.15"/><text class="mono" x="172" y="206" font-size="12" fill="#E6EDF3" text-anchor="middle">HTML/CSS</text>
+    <text class="sans" x="46" y="252" font-size="12" fill="#8B949E">Responsive, accessible UI</text>
+    <text class="sans" x="46" y="272" font-size="12" fill="#8B949E">Motion and 3D on the web</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g class="card c2">
+    <rect x="270" y="66" width="226" height="244" rx="14" fill="#111A22" stroke="#38BDF8" stroke-opacity="0.35"/>
+    <text class="sans" x="288" y="98" font-size="17" font-weight="700" fill="#7DD3FC">Backend + Data</text>
+    <rect x="288" y="116" width="76" height="26" rx="13" fill="#38BDF8" fill-opacity="0.15"/><text class="mono" x="326" y="134" font-size="12" fill="#E6EDF3" text-anchor="middle">Node.js</text>
+    <rect x="372" y="116" width="76" height="26" rx="13" fill="#38BDF8" fill-opacity="0.15"/><text class="mono" x="410" y="134" font-size="12" fill="#E6EDF3" text-anchor="middle">Express</text>
+    <rect x="288" y="152" width="66" height="26" rx="13" fill="#38BDF8" fill-opacity="0.15"/><text class="mono" x="321" y="170" font-size="12" fill="#E6EDF3" text-anchor="middle">MySQL</text>
+    <rect x="362" y="152" width="84" height="26" rx="13" fill="#38BDF8" fill-opacity="0.15"/><text class="mono" x="404" y="170" font-size="12" fill="#E6EDF3" text-anchor="middle">MongoDB</text>
+    <rect x="288" y="188" width="90" height="26" rx="13" fill="#38BDF8" fill-opacity="0.15"/><text class="mono" x="333" y="206" font-size="12" fill="#E6EDF3" text-anchor="middle">PostgreSQL</text>
+    <rect x="386" y="188" width="76" height="26" rx="13" fill="#38BDF8" fill-opacity="0.15"/><text class="mono" x="424" y="206" font-size="12" fill="#E6EDF3" text-anchor="middle">Supabase</text>
+    <text class="sans" x="288" y="252" font-size="12" fill="#8B949E">REST APIs, JWT / OAuth 2.0</text>
+    <text class="sans" x="288" y="272" font-size="12" fill="#8B949E">Schema design and indexing</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g class="card c3">
+    <rect x="512" y="66" width="226" height="244" rx="14" fill="#111A22" stroke="#A78BFA" stroke-opacity="0.35"/>
+    <text class="sans" x="530" y="98" font-size="17" font-weight="700" fill="#C4B5FD">AI / ML</text>
+    <rect x="530" y="116" width="72" height="26" rx="13" fill="#A78BFA" fill-opacity="0.15"/><text class="mono" x="566" y="134" font-size="12" fill="#E6EDF3" text-anchor="middle">Python</text>
+    <rect x="610" y="116" width="72" height="26" rx="13" fill="#A78BFA" fill-opacity="0.15"/><text class="mono" x="646" y="134" font-size="12" fill="#E6EDF3" text-anchor="middle">Pandas</text>
+    <rect x="530" y="152" width="66" height="26" rx="13" fill="#A78BFA" fill-opacity="0.15"/><text class="mono" x="563" y="170" font-size="12" fill="#E6EDF3" text-anchor="middle">NumPy</text>
+    <rect x="604" y="152" width="100" height="26" rx="13" fill="#A78BFA" fill-opacity="0.15"/><text class="mono" x="654" y="170" font-size="12" fill="#E6EDF3" text-anchor="middle">scikit-learn</text>
+    <rect x="530" y="188" width="104" height="26" rx="13" fill="#A78BFA" fill-opacity="0.15"/><text class="mono" x="582" y="206" font-size="12" fill="#E6EDF3" text-anchor="middle">TensorFlow</text>
+    <text class="sans" x="530" y="252" font-size="12" fill="#8B949E">Data cleaning, EDA, modeling</text>
+    <text class="sans" x="530" y="272" font-size="12" fill="#8B949E">Deep learning (in progress)</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g class="card c4">
+    <rect x="754" y="66" width="218" height="244" rx="14" fill="#111A22" stroke="#F59E0B" stroke-opacity="0.35"/>
+    <text class="sans" x="772" y="98" font-size="17" font-weight="700" fill="#FCD34D">Cloud + Security</text>
+    <rect x="772" y="116" width="52" height="26" rx="13" fill="#F59E0B" fill-opacity="0.15"/><text class="mono" x="798" y="134" font-size="12" fill="#E6EDF3" text-anchor="middle">AWS</text>
+    <rect x="832" y="116" width="72" height="26" rx="13" fill="#F59E0B" fill-opacity="0.15"/><text class="mono" x="868" y="134" font-size="12" fill="#E6EDF3" text-anchor="middle">Docker</text>
+    <rect x="772" y="152" width="72" height="26" rx="13" fill="#F59E0B" fill-opacity="0.15"/><text class="mono" x="808" y="170" font-size="12" fill="#E6EDF3" text-anchor="middle">Vercel</text>
+    <rect x="852" y="152" width="94" height="26" rx="13" fill="#F59E0B" fill-opacity="0.15"/><text class="mono" x="899" y="170" font-size="12" fill="#E6EDF3" text-anchor="middle">GH Actions</text>
+    <rect x="772" y="188" width="76" height="26" rx="13" fill="#F59E0B" fill-opacity="0.15"/><text class="mono" x="810" y="206" font-size="12" fill="#E6EDF3" text-anchor="middle">Semgrep</text>
+    <text class="sans" x="772" y="252" font-size="12" fill="#8B949E">Google Cybersecurity certs</text>
+    <text class="sans" x="772" y="272" font-size="12" fill="#8B949E">AWS Cloud Practitioner (next)</text>
+  </g>
+</svg>
