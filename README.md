@@ -29,8 +29,7 @@ open_to:     [Internships, Freelance Work, Open Source, Mentorship]
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamran-nizamani&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000&title_color=14B8A6&icon_color=14B8A6&text_color=8B949E&hide_title=true" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=kamran-nizamani&theme=tokyonight&hide_border=true&background=00000000&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=14B8A6" alt="Streak stats" />
+<img src="assets/generated/stats.svg" alt="GitHub stats" width="100%" />
 
 </div>
 
@@ -77,7 +76,7 @@ open_to:     [Internships, Freelance Work, Open Source, Mentorship]
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamran-nizamani&theme=tokyo-night&hide_border=true&radius=12&bg_color=0D1117&color=8B949E&line=14B8A6&point=ffffff&area=true&area_color=14B8A6&custom_title=Contribution%20Signal" alt="Contribution activity" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-nizamani&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=14B8A6&text_color=8B949E&langs_count=8" alt="Top languages" />
+<img src="assets/generated/langs.svg" alt="Top languages" width="49%" />
 
 </div>
 
